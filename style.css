@@ -1,0 +1,13 @@
+.darkmode {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: chocolate;
+    font-family: serif;
+    font-size: larger;
+    background-image: url(./public/fruit-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
